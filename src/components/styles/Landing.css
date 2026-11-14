@@ -395,3 +395,9 @@ h2.landing-info-h2 {
     font-size: 75px;
   }
 }
+
+.landing-intro h1 {
+  font-size: clamp(22px, 2.4vw, 42px);
+  line-height: 1.05;
+  letter-spacing: 0.5px;
+}

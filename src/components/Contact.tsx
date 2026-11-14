@@ -11,36 +11,27 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
-                target="_blank"
-                rel="noreferrer"
+                href="mailto:se.woldeamanual.getnet@gmail.com"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                se.woldeamanual.getnet@gmail.com
               </a>
             </p>
+            <p>
+              <a href="tel:+251985412182" data-cursor="disable">
+                +251-98-541-2182
+              </a>
+            </p>
+            <p>Dubai, UAE</p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
-            </p>
-            <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              BSc Software Engineering, Addis Ababa University — Addis Ababa
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              GitHub <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://www.linkedin.com/in/woldeamanual-getnet"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -49,22 +40,20 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.youtube.com/@Leftbraincoder"
+              href="https://www.woldeamanual-getnet.com"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              YouTube <MdArrowOutward />
+              Website <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/leftbraincoder/"
-              target="_blank"
-              rel="noreferrer"
+              href="mailto:se.woldeamanual.getnet@gmail.com"
               data-cursor="disable"
               className="contact-social"
             >
-              Instagram <MdArrowOutward />
+              Email <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
